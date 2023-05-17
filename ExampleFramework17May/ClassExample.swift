@@ -9,6 +9,8 @@ import Foundation
 
 public class ClassExample{
     
+    public init(){}
+    
     public func printExample(){
         print("I'm here")
     }
